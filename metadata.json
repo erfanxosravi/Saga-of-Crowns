@@ -1,0 +1,6 @@
+{
+  "name": "Eldsaga: Saga of Embers",
+  "description": "A historically grounded Viking Age life-and-empire simulation (793–1066 AD). Forge a multi-generational Norse dynasty through raids, law at the Thing, sea voyages, blood feuds, and realm-building across Northwest Europe and the North Atlantic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
